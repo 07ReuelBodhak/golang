@@ -9,7 +9,7 @@ func main() {
 	exp := 344
 	var floatVal float32 = float32(exp)
 	var byteVal byte = byte(exp)
-	fmt.Printf("converting integer %v to float %.2f and rune %v\n",exp,floatVal,byteVal)
+	fmt.Printf("converting integer %v to float %.2f and byte %v\n",exp,floatVal,byteVal)
 
 	exp2 := "123"
 	integerVal,err := strconv.Atoi(exp2) 
