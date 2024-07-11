@@ -60,4 +60,7 @@ runs loop infinitely
 
 [link](./project2/main.go)
 
-3. Matrix Operations: Implement a program that performs matrix multiplication. Prompt the user to enter the dimensions of two matrices (e.g., 2x3 and 3x2), and then input the elements for each matrix. Use loops to perform the multiplication according to matrix multiplication rules (sum of products of rows and columns).
+3. **GCD (Greatest Common Divisor)**:
+   Write a program that calculates the greatest common divisor of two integers provided by the user using a for loop and the Euclidean algorithm. The program should repeatedly subtract the smaller number from the larger one until one of the numbers becomes zero, at which point the other number is the GCD.
+
+[link](./Project3/main.go)
