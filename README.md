@@ -8,3 +8,5 @@
 4. **Loops** : [link](./Loops/Project3/README.md)
 5. **Packages** : [link](./Packages/README.md)
 6. **Functions** : [link](./Functions/README.md)
+7. **Arrays&Slices** : [link](./Arrays&Slices/README.md)
+8. **Maps** : [link](./Maps/README.md)
