@@ -10,3 +10,4 @@
 6. **Functions** : [link](./Functions/README.md)
 7. **Arrays&Slices** : [link](./Arrays&Slices/README.md)
 8. **Maps** : [link](./Maps/README.md)
+9. **Pointers** : [link](./Pointers/README.md)
