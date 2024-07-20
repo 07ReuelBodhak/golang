@@ -14,3 +14,4 @@
 10. **Structs&Methods** : [link](./Structs&Methods/README.md)
 11. **Interfaces** : [link](./Interfaces/README.md)
 12. **ErrorHandling** : [link](./ErrorHandling/README.md)
+13. **Panic&Recover** : [link](./Panic&Recover/README.md)
