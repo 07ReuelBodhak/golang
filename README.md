@@ -15,3 +15,4 @@
 11. **Interfaces** : [link](./Interfaces/README.md)
 12. **ErrorHandling** : [link](./ErrorHandling/README.md)
 13. **Panic&Recover** : [link](./Panic&Recover/README.md)
+14. **Goroutine** : [link](./Goroutine/README.md)
