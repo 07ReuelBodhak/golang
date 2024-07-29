@@ -16,3 +16,5 @@
 12. **ErrorHandling** : [link](./ErrorHandling/README.md)
 13. **Panic&Recover** : [link](./Panic&Recover/README.md)
 14. **Goroutine** : [link](./Goroutine/README.md)
+15. **Channels** : [link](./Channels/README.md)
+16. **Select Statement** : [link](./Select%20Statement/README.md)
